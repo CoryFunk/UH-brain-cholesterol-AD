@@ -1,0 +1,7 @@
+# ADNI participant-level data: never commit (ADNI Data Use Agreement)
+coreData*.wl
+*.csv
+Tier_1_4_*
+# generated figures and tables
+*.png
+*.pdf
